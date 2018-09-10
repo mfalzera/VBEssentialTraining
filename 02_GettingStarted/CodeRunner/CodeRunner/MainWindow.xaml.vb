@@ -2,6 +2,9 @@
 
     Sub RunCode(sender As Object, e As RoutedEventArgs)
         'Add code here
+        'Output("Hello World")
+        Dim input As String = txtInput.Text
+        Output(input)
     End Sub
 
     Sub Output(Value As String)

@@ -12,3 +12,19 @@ C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\ob
 C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.exe
 C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.xml
 C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.exe
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.xml
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.vbprojAssemblyReference.cache
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\MainWindow.baml
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\MainWindow.g.vb
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\Application.g.vb
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.Resources.resources
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.vbproj.GenerateResource.cache
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.vbproj.CoreCompileInputs.cache
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.exe
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.xml
+C:\VisualStudio2017\VBEssentialTraining\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.pdb
