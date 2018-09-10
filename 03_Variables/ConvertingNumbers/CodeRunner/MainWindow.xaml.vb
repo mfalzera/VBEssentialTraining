@@ -8,6 +8,25 @@
         Dim dbl1 As Double = 55.5
         Dim str1 As String = txtInput.Text
 
+        If IsNumeric(str1) Then
+            Dim intFromString As Integer = Integer.Parse(str1)
+            Output("You entered " + intFromString.ToString)
+        Else
+            Output("The value isn't numeric.")
+        End If
+
+        Dim double2 As Double = int1
+        Output("The value of double2 is " + double2.ToString)
+
+        int1 = 256
+        Try
+            Dim byte2 As Byte = Convert.ToByte(int1)
+            Output("The value of byte2 is " + byte2.ToString)
+        Catch ex As Exception
+            Output(ex.Message)
+        End Try
+
+
     End Sub
 
     Sub Output(Value As String)
